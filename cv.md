@@ -41,4 +41,4 @@ Major - a teacher of the English Language
 
 
 ### Languages
-English - Advanced (C1) ![alt-Certificate](/rsschool-cv/certificate.png)
+English - Advanced (C1) ![alt-Certificate](certificate.png)
